@@ -1,1 +1,6 @@
-# L2IPNet
+# Float in the Air: Defect Detection in Pipelines with Electromagnetic Levitation Technology
+This work is being submitted to IEEE/ASME Transactions on Mechatronics.\
+We will upload the complete code and dataset as soon as possible after the paper is accepted.
+
+## Material Object Demonstration Video
+Our material object demonstration video can be found at [here]().
