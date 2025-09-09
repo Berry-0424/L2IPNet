@@ -1,29 +1,29 @@
 # Float in the Air: Defect Detection in Pipelines with Electromagnetic Levitation Technology
 #### Our paper was accepted by IEEE/ASME Transactions on Mechatronics (TMECH)!
 
-![introduction.jpg](https://s2.loli.net/2024/10/10/QapHN2G6JTEiBRZ.jpg)
-![SRPCNet.jpg](https://s2.loli.net/2024/10/10/HX7VA2MDkUR6Nsu.jpg)
+![introduction.jpg]()
+![SRPCNet.jpg]()
 
 ## Application Demonstration Video
-Our application demonstration video can be found at [here](https://www.bilibili.com/video/BV1mG8deTEFq/?spm_id_from=333.999.0.0&vd_source=ab05d37c1ff3c6b02c65129c48e58661).
+Our application demonstration video can be found at [here](https://www.bilibili.com/video/BV17FMpzcEqW/?share_source=copy_web&vd_source=cf6666f6145ee5faba19c03551dd199d).
 
 ## Code and Dataset
-The code and dataset are available at [here](https://pan.baidu.com/s/1zhWy0khnnWSlGI_V1zpvMw?pwd=ecqg ).
+The code and dataset are available at [here]().
 
 ## Result
-![vis.jpg](https://s2.loli.net/2024/10/10/4rVSfzTs1eK6ZtL.jpg)
+![vis.jpg]()
 
 ## Citation
 ```
-@ARTICLE{10720461,
-  author={Chen, Hongshu and Song, Kechen and Cui, Wenqi and Zhang, Tianle and Yan, Yunhui and Li, Jun},
-  journal={IEEE Transactions on Industrial Informatics}, 
-  title={SRPCNet: Self-Reinforcing Perception Coordination Network for Seamless Steel Pipes Internal Surface Defect Detection}, 
+@ARTICLE{--,
+  author={Chen, Hongshu and Song, Kechen and Tan, You and Xue, Xiaotong and Yan, Yunhui and Tao, Xian and Shen, Fei},
+  journal={IEEE/ASME Transactions on Mechatronics}, 
+  title={Float in the Air: Defect Detection in Pipelines with Electromagnetic Levitation Technology}, 
   year={2025},
-  volume={21},
-  number={1},
-  pages={950-959},
-  keywords={Steel;Visualization;Testing;Surface treatment;Inspection;Welding;Training;Pipelines;Interference;Defect detection;Detection system;pipe internal surface dataset;salient object detection (SOD);seamless steel pipes (SSPs);surface defect detection},
-  doi={10.1109/TII.2024.3470895}}
+  volume={--},
+  number={--},
+  pages={--},
+  keywords={Electromagnetic levitation technology (ELT); Internal surface defects (ISDs); Mixed granularity information propagation; Pipeline internal surface dataset; Vision-based detection system},
+  doi={--}}
 
 ```
