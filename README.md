@@ -10,9 +10,6 @@ Our application demonstration video can be found at [here](https://www.bilibili.
 ## Code and Dataset
 The code and dataset are available at [here]().
 
-## Result
-![KzTdYwG.png](https://iili.io/KzTdYwG.png)
-
 ## Citation
 ```
 @ARTICLE{--,
