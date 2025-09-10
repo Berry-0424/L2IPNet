@@ -24,6 +24,6 @@ The code and dataset are available at [here]().
   number={--},
   pages={--},
   keywords={Electromagnetic levitation technology (ELT); Internal surface defects (ISDs); Mixed granularity information propagation; Pipeline internal surface dataset; Vision-based detection system},
-  doi={--}}
+  doi={10.1109/TMECH.2025.3609074}}
 
 ```
