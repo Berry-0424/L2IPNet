@@ -11,7 +11,7 @@ Our application demonstration video can be found at [here](https://www.bilibili.
 The code and dataset are available at [here]().
 
 ## Result
-![KzIbjB1.png](https://iili.io/KzIbjB1.png)
+![KzTdYwG.png](https://iili.io/KzTdYwG.png)
 
 ## Citation
 ```
