@@ -1,7 +1,7 @@
 # Float in the Air: Defect Detection in Pipelines with Electromagnetic Levitation Technology
 #### Our paper was accepted by IEEE/ASME Transactions on Mechatronics (TMECH)!
 
-![introduction.jpg]()
+![KzIZ2bS.png](https://iili.io/KzIZ2bS.png)
 ![SRPCNet.jpg]()
 
 ## Application Demonstration Video
